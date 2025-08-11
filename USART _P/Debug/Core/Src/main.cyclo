@@ -1,0 +1,5 @@
+../Core/Src/main.c:12:5:main	1
+../Core/Src/main.c:22:6:usart2_init	1
+../Core/Src/main.c:46:6:usart2_write	2
+../Core/Src/main.c:52:6:usart2_print	2
+../Core/Src/main.c:61:6:USART2_IRQHandler	4
